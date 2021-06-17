@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008762654301",
+    "project_id": "colortone-bafcb",
+    "storage_bucket": "colortone-bafcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008762654301:android:09bbb55e4b2ecf5acd07b4",
+        "android_client_info": {
+          "package_name": "com.carpedaws.colortone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008762654301-b8fstvmjmdqn6jgg37ok8rt9t88vh6ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAOMLmhZ5NowQgZpmK3ISTtCbyUqNRquc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008762654301-b8fstvmjmdqn6jgg37ok8rt9t88vh6ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
